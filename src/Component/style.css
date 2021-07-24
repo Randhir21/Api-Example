@@ -1,0 +1,18 @@
+.main_class{
+    
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    background-color: aquamarine;
+}
+.child_class{
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid red;
+}
+table{
+    width: 100%;
+    border: 1px;
+}
